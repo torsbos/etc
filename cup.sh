@@ -10,4 +10,4 @@ curl -s \
 > ~/calcurse-import
 calcurse -i ~/calcurse-import
 rm ~/calcurse-import
-c_dedupe
+dedupe
