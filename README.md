@@ -8,6 +8,8 @@ an `ffmpeg` batch convert script
 ## dedupe.sh
 a straight copy of
 [jonhiggs dedupe-calcurse-appointments](https://github.com/jonhiggs/dedupe-calcurse-appointments)
+## eca
+ecasound chainsetup files for faster multitrack recording
 ## cup.sh
 a `calcurse` appointment updater using `curl`, with deduplication
 thanks to
