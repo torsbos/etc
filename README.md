@@ -9,13 +9,13 @@ an `ffmpeg` batch convert script
 a straight copy of
 [jonhiggs dedupe-calcurse-appointments](https://github.com/jonhiggs/dedupe-calcurse-appointments)
 ## cup.sh
-a `calcurse` appointment updater, with deduplication
+a `calcurse` appointment updater using `curl`, with deduplication
 thanks to
 [jonhiggs dedupe-calcurse-appointments](https://github.com/jonhiggs/dedupe-calcurse-appointments)
 ## metronome.sh
 a metronome script based on `ecasound`'s metronome preset
 ## randbg.sh
-a random background image selector using feh, ls and shuf
+a random background image selector using `feh`, `ls` and `shuf`
 ## scr.sh
 a screengrab script using `import`
 to autoname screenshots based on the time and date
