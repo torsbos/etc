@@ -19,3 +19,5 @@ a random background image selector using `feh`, `ls` and `shuf`
 ## scr.sh
 a screengrab script using `import`
 to autoname screenshots based on the time and date
+## sf.sh
+a simple fetch script
