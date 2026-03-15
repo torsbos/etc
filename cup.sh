@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 # cup.sh - a calcurse script for non-destructive updates
 #          without duplicates
 # thanks to jonhiggs for the deduplication script
