@@ -48,7 +48,6 @@ void shortbreak(){
 void obs(){
   int i;
   for (i = 0; i < 4; i++){
-    printf("\e[1;1H\e[2J"); // clear screen, cursor top left
     printf("\e[?5h"); // invert colors
     printf("OBS!\n");
     usleep(500 * 1000);
@@ -56,6 +55,7 @@ void obs(){
     printf("\e[?5l"); // normal colors
     printf("OBS!\n");
     usleep(500 * 1000);
+    printf("\e[1;1H\e[2J"); // clear screen, cursor top left
   }
 }
 
